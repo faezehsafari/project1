@@ -3,7 +3,7 @@
 			<fieldset>
 				<legend>Contact</legend>
  					 First name:<br>
- 					 <input type="text" name="firstname" value="Mickey">
+ 					 <input type="text" name="secondname" value="Mickey">
   <br>
   					Last name:<br>
  					 <input type="text" name="lastname" value="Mouse">
