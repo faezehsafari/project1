@@ -6,7 +6,7 @@
  					 <input type="text" name="secondname" value="Mickey">
   <br>
   					Last name:<br>
- 					 <input type="text" name="lastname" value="Mouse">
+ 					 <input type="text" name="nickname" value="Mouse">
   <br><br>
   					<input type="radio" name="gender" value="male" checked> Male<br>
   					<input type="radio" name="gender" value="female"> Female<br>
